@@ -42,7 +42,7 @@
   "deprecated": false,
   "description": "High performance Stratum Server in Node.js for KawPoW algo",
   "engines": {
-    "node": ">=14.20.1"
+    "node": ">=12.22.12"
   },
   "homepage": "https://github.com/AlphaX-Projects/alphax-kawpow-stratum",
   "keywords": [
