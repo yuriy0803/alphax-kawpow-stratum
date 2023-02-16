@@ -11,5 +11,5 @@ Stratum - v1.0.0 Special Edition
 ## License
 ```
 Licensed under the GPL-3.0
-Copyright (c) 2022 AlphaX Projects (alphax.pro)
+Copyright (c) 2023
 ```
